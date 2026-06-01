@@ -17,7 +17,8 @@ MAE146_FINAL_PROJECT/
 ├── scripts/
 │   ├── dataset.py
 │   ├── nn.py
-│   └── ridge_regression.py
+│   ├── ridge_regression.py
+|   └── california_housing.csv
 ├── analysis.ipynb
 ├── README.md
 ├── .gitignore

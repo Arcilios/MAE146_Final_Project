@@ -3,7 +3,10 @@
 ## Project Structure
 
 ```text
-MAE146_FINAL_PROJECT/
+MAE146_Final_Project/
+├── .gitattributes
+├── .gitignore
+├── analysis.ipynb
 ├── data/
 │   ├── cal_housing_py3.pkz
 │   └── california_housing.csv
@@ -14,15 +17,13 @@ MAE146_FINAL_PROJECT/
 │   ├── mse.png
 │   ├── nn_cv_mse.png
 │   └── r2.png
-├── scripts/
-│   ├── dataset.py
-│   ├── nn.py
-│   ├── ridge_regression.py
-|   └── california_housing.csv
-├── analysis.ipynb
 ├── README.md
-├── .gitignore
-└── .gitattributes
+└── scripts/
+    ├── california_housing.csv
+    ├── dataset.py
+    ├── nn.py
+    └── ridge_regression.py
+
 ```
 
 ## File Description
